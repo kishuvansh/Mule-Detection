@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# Large Datasets (Not for GitHub)
+*.parquet
+transactions/
+transactions_additional/
+features_train_p2.csv
+features_test_p2.csv
+features_train_v2.csv
+features_test_v2.csv
+
+# Keep Model Artifacts and Predictions
+# v15_models/
+# submission_v15.csv
+
+# Others
+.DS_Store
+catboost_info/
