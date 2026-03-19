@@ -86,5 +86,5 @@ Our final predictions are powered by a uniformly weighted ensemble of three stat
 
 *Note: All three models utilize a scaling weight (`scale_pos_weight` / `auto_class_weights`) to gracefully handle the heavy class imbalance (~97% legitimate, ~3% mules).*
 
----
-*Built for the IITD Tryst Hackathon — Pushing the limits of AI in Anti-Money Laundering.*
+
+
